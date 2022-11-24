@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnson261996
 - 👀 I’m interested in progrmming
-- 🌱 I’m currently learning flutter/selenium/react native
+- 🌱 I’m currently learning flutter/ios/react native
 - 💞️ I’m good at java/android/kotlin
 - 📫 johnson.mendonca26@gmail.com
 
